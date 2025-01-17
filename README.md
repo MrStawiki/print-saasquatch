@@ -1,4 +1,5 @@
 # Print Saasquatch
+# Author: Adam Stawicki
 
 This is a simple java program that prints the comany name "Impact Saasquatch" using the Picocli libary.
 
